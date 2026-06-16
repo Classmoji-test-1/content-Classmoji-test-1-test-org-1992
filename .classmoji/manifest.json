@@ -1,9 +1,22 @@
 {
-  "repositories": {},
+  "repositories": {
+    "react": {
+      "pages": [
+        "unit-1"
+      ],
+      "slides": [],
+      "assignments": {
+        "test": {
+          "pages": [
+            "unit-1"
+          ],
+          "slides": []
+        }
+      }
+    }
+  },
   "general": {
-    "pages": [
-      "unit-1"
-    ],
+    "pages": [],
     "slides": []
   }
 }
